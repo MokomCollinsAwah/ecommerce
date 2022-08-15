@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MokomCollinsAwah.github.io/ecommerce/static/css/main.5e3ff6d2.css",
+    "main.js": "/MokomCollinsAwah.github.io/ecommerce/static/js/main.0a2e5be7.js",
+    "static/media/banner.png": "/MokomCollinsAwah.github.io/ecommerce/static/media/banner.e602b14d6959114e761d.png",
+    "static/media/cat3.jpg": "/MokomCollinsAwah.github.io/ecommerce/static/media/cat3.7f581eef40cfea49df5e.jpg",
+    "static/media/cat2.jpg": "/MokomCollinsAwah.github.io/ecommerce/static/media/cat2.5c4baa9906889b672d34.jpg",
+    "static/media/cat1.jpg": "/MokomCollinsAwah.github.io/ecommerce/static/media/cat1.4992969a9230ee2b63ca.jpg",
+    "index.html": "/MokomCollinsAwah.github.io/ecommerce/index.html",
+    "main.5e3ff6d2.css.map": "/MokomCollinsAwah.github.io/ecommerce/static/css/main.5e3ff6d2.css.map",
+    "main.0a2e5be7.js.map": "/MokomCollinsAwah.github.io/ecommerce/static/js/main.0a2e5be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3ff6d2.css",
+    "static/js/main.0a2e5be7.js"
+  ]
+}
